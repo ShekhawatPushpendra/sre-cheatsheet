@@ -6,7 +6,7 @@ Make Jelly site have a GitBook look!
 
 ## Demo
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+Live demo on Github Pages: [https://shekhawatpushpendra.github.io/sre-cheatsheet](https://shekhawatpushpendra.github.io/sre-cheatsheet)
 
 [![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
